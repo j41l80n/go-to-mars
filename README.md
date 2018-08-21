@@ -38,3 +38,11 @@ Para visualizar o projeto, abra seu navegador e acesse o endereço:
 > A não execução do Servidor local na pasta do jogo, poderá ocorrer um erro de origem cruzada. Visite a documentação do oficial em [P5.js Local Server].
 
 ## ESTRUTURA DO PROJETO
+
+### Screenshots
+<p>
+    <img src="imagens/screenshot1.png" width="400px" />
+    <img src="imagens/screenshot4.png" width="400px" />
+    <img src="imagens/screenshot3.png" width="400px" />
+    <img src="imagens/screenshot2.png" width="400px" />
+</p>
